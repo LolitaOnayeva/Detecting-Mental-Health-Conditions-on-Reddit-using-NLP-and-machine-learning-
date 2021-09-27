@@ -14,3 +14,17 @@ For NN models I experimented with the embeddings. I trained embedding layer as a
 
 Additional info: 
 WD- without depression class dataset. 
+
+5k- 5000 most frequent words
+
+10k- 10000 most frequent words
+
+100D- dimention of the embedding vectors 
+
+300D-dimention of the embedding vectors 
+
+NN- embedding layer trained as a part of the model
+
+Glove-pre-trained Glove embeddings without fine-tuning 
+
+Tune-pre-trained Glove embeddings with fine-tuning 
